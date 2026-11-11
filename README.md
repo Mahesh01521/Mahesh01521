@@ -16,7 +16,7 @@
 - ⚡ Interested in **Performance Testing, Test Automation and Quality Assurance**.
 - 🐛 Finding bugs, breaking things (intentionally) and making applications better.
 - 🌱 Always learning, testing and leveling up.
-- 📫 Reach me at **maheshmano2004@gmail.com**
+- 📫 Reach me at **maheshmano2005@gmail.com**
 
 ---
 
